@@ -6,7 +6,7 @@ if(navigator.appName=="Microsoft Internet Explorer")
 alert("Best View this site in Mozila firfox/google Chrome")
 
 </script>
-
+<input type="submit">
 
 <script type='text/javascript' src='js/jquery-1.2.3.min.js'></script>
 <script type='text/javascript' src='js/menu.js'></script>
